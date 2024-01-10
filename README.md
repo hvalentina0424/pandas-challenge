@@ -1,6 +1,6 @@
 # pandas-challenge
 Module 4 Challenge
-Due Monday by 11:59pm Points 100 Submitting a text entry box or a website url
+
 In this assignment, you’ll create and manipulate Pandas DataFrames to analyze school and standardized test data.
 
 Background
